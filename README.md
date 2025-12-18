@@ -1,2 +1,3 @@
 # asteroids-project
-Asteroids with pygame
+Asteroids with pygame  
+Guided project from Boot.Dev
