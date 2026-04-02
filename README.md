@@ -1,3 +1,3 @@
 # asteroids-project
-Asteroids with pygame  
-Guided project from Boot.Dev
+Created the game Asteroids utilizing the pygame library. 
+Built as a guided project from Boot.Dev.
